@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # To-Do-App
 A simple todo app using react js
 
